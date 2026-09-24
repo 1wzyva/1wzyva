@@ -1,16 +1,12 @@
-## Hi there 👋
+# 嗨嗨，我是吳芷妍
 
-<!--
-**1wzyva/1wzyva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+我是中原大學的學生，目前正在學習計算機概論與程式設計。
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 關於我
+- 系級：智運一甲
+- 正在學習：Python、GitHub
+- 感興趣的主題：畫畫、追劇
+- 這學期的目標：歐趴、認真讀書
+## 我的作品
+目前正在學習中，之後會放在GitHub
+【中原智運】(https://icbd.cycu.edu.tw/)
