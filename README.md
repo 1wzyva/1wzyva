@@ -9,4 +9,4 @@
 - 這學期的目標：歐趴、認真讀書
 ## 我的作品
 目前正在學習中，之後會放在GitHub
-【中原智運】(https://icbd.cycu.edu.tw/)
+[中原智運](https://icbd.cycu.edu.tw/)
